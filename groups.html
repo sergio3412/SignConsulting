@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Grupos</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="fontawesome/css/all.min.css">	
+	<link rel="stylesheet" href="css/layout.css">
+</head>
+	<body>
+		<header id="cabecalhoInicio">
+			<h1>Luminar Logistics</h1>
+			<div id="quadroUser">
+				<div class="iconeUsuario">
+					<i class="fa fa-user"></i>
+				</div>
+				<script src="js/session.js"></script>
+				<div class="nomeUsuario">
+					Nome Usuário
+				</div>
+			</div>
+		</header>
+		<section>
+			<div id="menu">
+				<nav>
+					<ul>
+						<li id="inicio"><a href="inicio.html">
+							<i class="fa fa-home"></i>
+							Início</a>
+						</li>
+						<li id="relatorios"><a href="reportAll.html">
+							<i class="fa fa-file-alt"></i>
+							Total Acordos</a>
+						</li>
+						<li id="relatorios"><a href="relatorios.html">
+							<i class="fa fa-file-alt"></i>
+							Relatórios</a>
+						</li>
+						<li id="usuarios"><a href="users.html">
+							<i class="fa fa-user"></i>
+							Usuários</a>
+						</li>
+						<li id="grupos"><a href="groups.html">
+							<i class="fa fa-users"></i>
+							Grupos</a>
+						</li>
+						<li id="grupos"><a href="agreements.html">
+							<i class="fa fa-file-signature"></i>
+							Acordos</a>
+						</li>
+						<li id="widget"><a href="widgets.html">
+							<i class="fa fa-file-export"></i>
+							Widgets</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+			<div id="conteudo">
+			
+		
+		<script src="js/listGroups.js"></script>
+		<h1 class="tituloConteudo">Grupos</h1>
+		<table id="tabGrupos">
+			<thead>
+			    <tr>
+			    	<th>groupId</th>
+			        <th>createdDate</th>
+			        <th>groupName</th>
+			      	<th>isDefaultGroup</th>     
+			    </tr>
+			</thead>
+		  	<tbody>
+		  	</tbody>
+		</table>
+			</div>
+		
+		</section>
+		<footer>
+			<p>Desenvolvedor Sergio Alex Jaimes Perez</p>
+		</footer>
+	</body>
+</html>

@@ -1,0 +1,35 @@
+/*****  Login *****/
+
+login: luanh2511@gmail.com
+Senha: CBJCHBCAABAAvaDFm50YmwjiLVG5qrE-oFdP7XO0KwiA
+
+
+/*******  grupoID ***** /
+Nome grupo: CDLE
+CBJCHBCAABAAYSKjrq74GQHFzD3W2i_XXmyBcwcgb1XM
+
+External group
+CBJCHBCAABAAo-N7QoSZP0Rxl0ByCaixaTzuPcgfMrpl
+
+Falabella
+CBJCHBCAABAAJfICkIb3i-oJnhP5FWZF6WKc0KVfpldU
+
+Santa Maria
+CBJCHBCAABAAq1YM_9c_m-4VjB8KJeZ3wvWqtA6HCXEi
+
+VILT RH
+CBJCHBCAABAAgpelfkQDt9EEvLpGAMdytH-tz4txSOuJ
+
+/***** Relatórios - Para pesquisar **************/
+
+Nome grupo: Test Group
+Nome usuario: Jose Fernandez
+
+Nome grupo: Sicredi
+Nome usuario: Isabella Bueno
+
+Nome grupo: Sicredi
+Nome usuario: Jose Fernandez
+
+Nome grupo: Test Group
+Nome usuario: Katherine White
